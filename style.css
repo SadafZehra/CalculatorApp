@@ -1,0 +1,25 @@
+.main{
+    border:2px solid grey;
+    width:250px;
+    height: 350px;
+    margin:0 auto;
+}
+.result{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: medium;
+    width:95%;
+    height: 40px ;
+    margin: 2px ;
+    background-color: rgba(128, 128, 128, 0.151);
+    color:black;
+}
+.btn{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: medium;
+    background-color: grey;
+    width:57px;
+    height: 40px;
+    margin:1px;
+}
